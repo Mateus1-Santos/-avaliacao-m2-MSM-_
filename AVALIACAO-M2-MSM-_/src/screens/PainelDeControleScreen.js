@@ -6,7 +6,7 @@ export default function PainelDeControleScreen(){
     <View>
         <Interruptor nome={'Sala'}/>
         <Interruptor nome={'Quarto'}/>
-        <Interruptor nome={'Cozinah'}/>
+        <Interruptor nome={'Cozinha'}/>
     </View>
   )
 }

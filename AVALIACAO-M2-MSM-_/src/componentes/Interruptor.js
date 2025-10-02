@@ -10,7 +10,6 @@ const Interruptor = (props) => {
       <Button title={ ligado? 'Desligado':'Ligado' } onPress={() =>setLigado(!ligado) }/>
     </View>
 ) 
-
 }
 const styles = StyleSheet.create({
     container: {
